@@ -1,2 +1,3 @@
 
 // Select some elements...
+console.log = 'hello world'
